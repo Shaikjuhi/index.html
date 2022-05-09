@@ -1,0 +1,21 @@
+<style>
+td
+{
+    width: 30px;
+}
+</style>
+
+<style>
+table{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.d1{
+    height: 200px;
+    width: 100%;
+    background-color: greenyellow;
+}
+.image {
+    height: 10px;
+    width: 2%;
+}
